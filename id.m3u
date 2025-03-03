@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="sports",Tes
+https://su00yous3-cf.tikballaa.com/auth%3D50dd40dde3e656974580a6e386e1a6e72a4714d2d2252d5cc3b1a93014342101ced16cc1aaaebf0dcbcee40c86609f9bb4fdbbe87a2e9a4bd509b61729bb579b65a6d1e33da49cc67444f02a04e3bdf91799da8ee614379825b66d2dfdf62fa5a7e334f70ff77d9137d4fab365a12e418a5fcc4cfb477ca0ebb61c9f3a4a35b127528a187ebde216c34c2298778edb0fdc5a6544c014df5ad10e814170fcd156%26cid%3DzaTGyboH6rNoK7Its7B1x250301%26_v%3D2%26_r%3DZSzKf_%26_vis%3Ddd83dfd711cda1a98e477ce9208248922ace9e2e01ea817a1a27039b7d63bb39%26_vvs%3De3aa1590de4b35c61db20a5194ca6f5616adc3f063c1b05fae9c99c542e65c56/app/c325828.m3u8
+
+
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
